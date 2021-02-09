@@ -3,7 +3,10 @@ A depository for various scripts used in my PhD thesis.
 
 All fastq files were first checked with fastqc for sequencing quality before the following steps.
 
-Indexing folder contain all the scripts to create genome/transcriptome indices for the tools used in the pipelines
+Indexing folder contain all the scripts to create genome/transcriptome indices for the tools used in the pipelines.  
+- **bwaIndex.sh** is used to create bwa index for hg19.
+- **samtoolsIndex.sh** is used to create samtools index for hg19.
+- hisat2 indices are downloaded from http://daehwankimlab.github.io/hisat2/download/
 
 ChIP-seq pipeline folder contains the bwa and MACS2 scripts for alignment and peakcalling.  
 -	**bwa.sh** covers all steps including aligning fastq to sam, compressing sam to bam, sorting the bam file, and indexing the sorted bam.  
