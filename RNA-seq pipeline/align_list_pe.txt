@@ -1,0 +1,8 @@
+DMSO_rep1_R1	DMSO_rep1_R2	DMSO_rep1
+JQ1_rep1_R1	JQ1_rep1_R2	JQ1_rep1
+EPO_rep1_R1	EPO_rep1_R2	EPO_rep1
+EPO+JQ1_rep1_R1	EPO+JQ1_rep1_R2	EPO+JQ1_rep1
+DMSO_rep2_R1	DMSO_rep2_R2	DMSO_rep2
+JQ1_rep2_R1	JQ1_rep2_R2	JQ1_rep2
+EPO_rep2_R1	EPO_rep2_R2	EPO_rep2
+EPO+JQ1_rep2_R1	EPO+JQ1_rep2_R2	EPO+JQ1_rep2

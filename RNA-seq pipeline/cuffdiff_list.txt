@@ -1,0 +1,6 @@
+DMSO	DMSO_rep1_sort.bam,DMSO_rep2_sort.bam	JQ1	JQ1_rep1_sort.bam,JQ1_rep2_sort.bam
+DMSO	DMSO_rep1_sort.bam,DMSO_rep2_sort.bam	EPO	EPO_rep1_sort.bam,EPO_rep2_sort.bam
+JQ1	JQ1_rep1_sort.bam,JQ1_rep2_sort.bam	EPO+JQ1	EPO+JQ1_rep1_sort.bam,EPO+JQ1_rep2_sort.bam
+EPO	EPO_rep1_sort.bam,EPO_rep2_sort.bam	EPO+JQ1	EPO+JQ1_rep1_sort.bam,EPO+JQ1_rep2_sort.bam
+DMSO	DMSO_rep1_sort.bam,DMSO_rep2_sort.bam	EPO+JQ1	EPO+JQ1_rep1_sort.bam,EPO+JQ1_rep2_sort.bam
+JQ1	JQ1_rep1_sort.bam,JQ1_rep2_sort.bam	EPO	EPO_rep1_sort.bam,EPO_rep2_sort.bam
