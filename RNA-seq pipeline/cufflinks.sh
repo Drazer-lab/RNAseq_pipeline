@@ -25,7 +25,7 @@ mkdir $outdir
 for i in ${samples[@]}
 do
 	date
-	echo "Begin cufflinks for "${samples[$i]}"."
+	echo "Begin cufflinks for "$i"."
 	mkdir $outdir/$i
 	cufflinks -o $outdir/$i -p 8 -G $index $i\_sort.bam 
 done
